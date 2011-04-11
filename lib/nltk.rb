@@ -6,3 +6,4 @@ module NLTK; end
 # separately if you just need one.
 #
 require File.expand_path '../nltk/tokenizers', __FILE__
+require File.expand_path '../nltk/stemmers', __FILE__
