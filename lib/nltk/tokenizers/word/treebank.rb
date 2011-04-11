@@ -17,6 +17,7 @@ module NLTK::Tokenizers::Word
   class Treebank
 
     # List of contractions adapted from Robert MacIntyre's tokenizer.
+    #
     CONTRACTIONS2 = [/(?i)(.)('ll|'re|'ve|n't|'s|'m|'d)\b/,
                      /(?i)\b(can)(not)\b/,
                      /(?i)\b(D)('ye)\b/,
