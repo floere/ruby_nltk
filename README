@@ -1,1 +1,3 @@
 This is an experimental repository which I use to hone my natural language coding skills. I'll be adapting code from the original NLTK to Ruby.
+
+Most of this code has been directly ported from the original NLTK that is located here: http://code.google.com/p/nltk/
